@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/recursos">
+        <file>Nueva carpeta/archivos.png</file>
+        <file>Nueva carpeta/cerrar-sesion.png</file>
+        <file>Nueva carpeta/disquete.png</file>
+        <file>Nueva carpeta/exclamacion.png</file>
+        <file>Nueva carpeta/llaves.png</file>
+        <file>Nueva carpeta/Nuevo.png</file>
+        <file>Nueva carpeta/salario.png</file>
+    </qresource>
+</RCC>
